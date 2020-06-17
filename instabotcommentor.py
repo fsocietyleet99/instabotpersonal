@@ -10,8 +10,8 @@ import random
 # set workspace folder at desired location (default is at your home folder)
 set_workspace(path=None)
 
-session = InstaPy(username="fsociety_leet_99", 
-                  password="3ik4bAv3JNVfPjR",
+session = InstaPy(username="#put your username here", 
+                  password="#put your password here",
                   headless_browser=False)
 
 comments = ["Nice! pls check out @sonal_tunes","love it! pls check out @sonal_tunes "]
